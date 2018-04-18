@@ -57,10 +57,7 @@ body {
 
         svg {
             fill: #161616;
-
-            &:hover {
-                fill: tomato;
-            }
+            pointer-events: none;
         }
     }
 }

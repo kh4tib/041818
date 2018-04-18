@@ -39,8 +39,7 @@ body {
     fill: tomato;
     z-index: 2; }
   .oval:hover svg {
-    fill: #161616; }
-    .oval:hover svg:hover {
-      fill: tomato; }
+    fill: #161616;
+    pointer-events: none; }
 
 /*# sourceMappingURL=style.css.map */
